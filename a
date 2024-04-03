@@ -1,0 +1,8 @@
+1 Descarga la imagen 'httpd' y comprueba que está en tu equipo.
+   
+      $ docker pull httpd
+        Using default tag: latest
+        latest: Pulling from library/httpd
+        Digest: sha256:5123fb6e039b83a4319b668b4fe1ee04c4fbd7c4c8d1d6ef843e8a943a9aed3f
+        Status: Image is up to date for httpd:latest
+        docker.io/library/httpd:latest
